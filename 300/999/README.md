@@ -61,7 +61,9 @@ Add as many documents as you see fit. Here we (aim to) add all chapters of the b
 
 ## Create an AI Agent
 
+We'll create an AI Agent called "Leader":
 
+![Image](https://github.com/user-attachments/assets/7842c639-7463-48c3-9790-69a11e1d42fe)
 
 ## Associate the knowledge from the knowledge base with the agent
 
