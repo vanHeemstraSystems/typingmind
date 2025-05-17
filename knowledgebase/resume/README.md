@@ -1,4 +1,4 @@
 # Resume
 
-- 17 Core Competencies To Put On Your Resume
+- 17 Core Competencies To Include On Your Resume
 - ...
