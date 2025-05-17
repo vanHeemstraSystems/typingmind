@@ -98,4 +98,4 @@ Should you include technical or specialized core competencies?
 In short, showcasing technical or specialized competencies on your resume can be advantageous. As long as these capabilities are relevant to the job, including them can better demonstrate your proficiency in specific tools, technology or industry-specific knowledge. In addition, technical and specialized core competencies can show employers you can excel in the role.
 
 
-Source: 
+Source: https://www.indeed.com/career-advice/resumes-cover-letters/resume-core-competencies
