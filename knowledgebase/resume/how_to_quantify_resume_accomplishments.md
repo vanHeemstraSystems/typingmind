@@ -56,4 +56,4 @@ Example 5: Sales associate
 Unquantified: Created bonds with clients to develop lasting relationships, resulting in significant sales performances in every quarter.
 Quantified: Developed strong bonds with clients resulting in long-lasting relationships and the title of #1 Sales Associate in the Northeast and #3 Sales Associate Nationwide.
 
-Source: 
+Source: https://www.indeed.com/career-advice/resumes-cover-letters/how-to-quantify-resume
