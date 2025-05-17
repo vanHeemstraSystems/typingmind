@@ -75,4 +75,4 @@ If you decide to use this format, try to be transparent about your experience to
 Video: Where to Include Skills on a Resume
 Sinead explains the best places to include skills on a resume including how to format a “Skills” or “Core Competencies” section.
 
-Source: 
+Source: https://www.indeed.com/career-advice/resumes-cover-letters/skills-based-resume-template
