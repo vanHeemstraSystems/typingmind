@@ -10,7 +10,7 @@ Categories:
 
 - Resume
 
-Profile Picture: https://randomuser.me/api/portraits/men/46.jpg
+Profile Picture: https://randomuser.me/api/portraits/women/46.jpg
 
 System Instruction:
 
